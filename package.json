@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rana2020701/Authentication#readme",
   "dependencies": {
+    "MD5": "^1.3.0",
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
     "ejs": "^3.1.6",
